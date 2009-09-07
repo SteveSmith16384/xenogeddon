@@ -1,0 +1,10 @@
+# Xenogeddon config file
+
+remove_corpses=yes
+high_detail=yes
+show_fps=no
+enemy_ai=yes
+use_torch=no
+main_light_brightness=0.6
+torch_brightness=0.9
+camera_lurch=yes
