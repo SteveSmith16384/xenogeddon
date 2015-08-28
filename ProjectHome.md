@@ -1,0 +1,1 @@
+Xenogeddon is a first-person arcade game.  You must investigate abandoned ships and spacestation, avoiding or killing the enemies that might or might not lay in wait. Your mission is to activate the self-destruct and then escape.
